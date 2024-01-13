@@ -6,7 +6,7 @@ body, h1, p {
 
 /* Apply some basic styles to the body */
 body {
-    font-family: Ariel, sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333
 }
@@ -16,4 +16,10 @@ h1 {
     color: #007bff;
     text-align:center;
     margin-top: 20px;
+}
+
+/* Style the paragraph */
+p {
+    text-align: center;
+    margin: 10px 0;
 }
